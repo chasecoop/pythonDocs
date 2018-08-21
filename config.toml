@@ -1,5 +1,5 @@
 siteTitle="Python in Visual Studio Code"
-linkPrefix="/pythonVSCodeDocs"
+linkPrefix="/pythonDocs"
 docPages = [
   "/docs/python-path/",
   "/docs/autocomplete/",
